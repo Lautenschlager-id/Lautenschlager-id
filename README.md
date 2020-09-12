@@ -28,5 +28,5 @@ My portfolio can be found at [bit.ly/laut-id](https://bit.ly/laut-id). A sagacio
 <img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-8C-8E.png?raw=true" width="25" alt="Globe" /> Software Translator.<br>
 <br>
 <img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-94-AD.png?raw=true" width="25" alt="Telescope" /> Star Observer.<br>
-<p align='center'><sub>least but not less important</sub></p>
+<p align='center'><sub>last but not least</sub></p>
 <img align="left" src="https://i.imgur.com/IYoyBeC.png" height="25" alt="Art" /> Dark Theme user.<br>
