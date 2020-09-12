@@ -4,6 +4,8 @@ You're accessing the profile of Tai Lautenschlager, a cool developer that loves 
 
 My portfolio can be found at [bit.ly/laut-id](https://bit.ly/laut-id). A sagacious colleague described it as "yes, ugly, but it has content". You can also find my _curriculum vitae_ there, but you can bet it's not updated!
 
+🚀 Trying to contact me? You have to be wanting it a lot in order to figure out how to do so. ☄️
+
 ## Main Languages 💻
 <img align="left" src="https://lautenschlager-id.github.io/content/lang_lua.jpg" width="40" alt="Lua" />
 <img align="left" src="https://lautenschlager-id.github.io/content/lang_js.jpg" width="40" alt="JavaScript" />
@@ -18,5 +20,13 @@ My portfolio can be found at [bit.ly/laut-id](https://bit.ly/laut-id). A sagacio
 <img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-87-AA-F0-9F-87-B8.png?raw=true" width="50" alt="Spanish (ES)" />
 <br>
 <br>
+<br>
 
-🔭 Trying to contact me? You have to be wanting it a lot in order to figure out how to do so. ☄️
+## Je suis
+<img align="left" src="https://cdn.discordapp.com/emojis/563096586394140682.png?v=1" width="25" alt="Gear" /> Bot & API Developer.<br>
+<br>
+<img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-8C-8E.png?raw=true" width="25" alt="Globe" /> Software Translator.<br>
+<br>
+<img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-94-AD.png?raw=true" width="25" alt="Telescope" /> Star Observer.<br>
+<p align='center'><sub>least but not less important</sub></p>
+<img align="left" src="https://i.imgur.com/8TSY52s.png" height="25" alt="Art" /> Dark Theme user.<br>
