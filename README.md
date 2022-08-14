@@ -4,7 +4,11 @@ You're accessing the profile of Tai Lautenschlager, a cool developer that loves 
 
 My portfolio can be found at [bit.ly/laut-id](https://bit.ly/laut-id). A sagacious colleague described it as "yes, ugly, but it has content". You can also find my _curriculum vitae_ there, but you can bet it's not updated!
 
-🚀 Trying to contact me? You have to be wanting it a lot in order to figure out how to do so. ☄️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lautenschlager-id&count_private=true&theme=material-palenight&include_all_commits=true" alt="Some stats" />
+</p>
+
+🚀 Contact me as you can! Creativity counts. ☄️
 
 ## Main Languages 💻
 <img align="left" src="https://lautenschlager-id.github.io/content/lang_lua.jpg" width="40" alt="Lua" />
