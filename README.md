@@ -29,6 +29,8 @@ My portfolio can be found at [bit.ly/laut-id](https://bit.ly/laut-id). A sagacio
 ## Je suis
 <img align="left" src="https://cdn.discordapp.com/emojis/563096586394140682.png?v=1" width="25" alt="Gear" /> Software Developer.<br>
 <br>
+<img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-90-9B.png?raw=true" width="25" alt="Bug" /> Quality Assurance Engineer.<br>
+<br>
 <img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-8C-8E.png?raw=true" width="25" alt="Globe" /> Software Translator.<br>
 <br>
 <img align="left" src="https://github.com/Lautenschlager-id/LuaEmojisByBytes/blob/master/72x72/F0-9F-94-AD.png?raw=true" width="25" alt="Telescope" /> Star Observer.<br>
